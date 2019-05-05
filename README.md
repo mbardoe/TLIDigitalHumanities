@@ -11,7 +11,14 @@ Ideas for topics to cover as part of the week (no particular order right now):
 * Introduction to OpenData (Data manager from Google)
 * Jupyter Notebooks
 * Mathematica
-* 
+
+## Examples
+* [Programming Historian](https://programminghistorian.org/en/)
+
+
+## Tools 
+* [DH Box] (http://dhbox.org/)
+
 
 ## Schedule
 |Day |Topics|
